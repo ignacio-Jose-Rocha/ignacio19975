@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m ignacio jose rocha and i  have 24 years old 
+- 👋 Hi, I’m ignacio jose rocha
 - 🌱 Currently I am learning development, on the backend side with the spring framework and on the frontend side with react framework.
 - 💞️ I am looking to collaborate in group projects
 - I have been studying and implementing programming with java for a year in addition to creating my own projects.I do not have any experience as an employee I am a person who is looking for his first work experience
