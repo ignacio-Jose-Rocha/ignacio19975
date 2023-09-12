@@ -4,7 +4,7 @@
 - 💞️ I am looking to collaborate in group projects
 - I have been studying and implementing programming with java for a year in addition to creating my own projects.I do not have any experience as an employee I am a person who is looking for his first work experience
 - 📫 How to reach me-> gmail: ignac1997nacho@gmail.com
-a href="https://linkedin.com/in/linkedin.com/in/ignacio-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ignacio-rocha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/ignacio-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ignacio-rocha" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/ignac1997nacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/ignac1997nacho" height="30" width="40" /></a>
 </p>
 
